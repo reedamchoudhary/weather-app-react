@@ -1,13 +1,13 @@
 import Weather from "./Weather"
 
 const Temperature=(min, max)=>{
-  
+
 }
 
 const App = () =>{
   return (
     <>
-      <Weather />
+      <Weather min_temp=/>
     </>
     )
 }
